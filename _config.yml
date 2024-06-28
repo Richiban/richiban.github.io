@@ -1,4 +1,6 @@
 title: Pinar's portfolio
 description: Pinar Gibson's portfolio
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
