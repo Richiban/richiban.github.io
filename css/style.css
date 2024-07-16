@@ -44,15 +44,6 @@ body {
   height: auto;
 }
 
-@media screen and (min-width: 1200px) {
-  #wrapper {
-    margin-left: calc(50% - var(--max-width) / 2);
-  }
-
-  #main {
-    padding-right: calc(50vw - var(--max-width) / 2);
-  }
-}
 @font-face {
   font-family: "Noto Sans";
   font-weight: 400;
@@ -300,7 +291,23 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased;
 }
-@media print, screen and (max-width: 960px) {
+
+
+@media screen and (min-width: 1200px) {
+  #wrapper {
+    margin-left: calc(50% - var(--max-width) / 2);
+  }
+
+  #main {
+    padding-right: calc(50vw - var(--max-width) / 2);
+  }
+}
+
+
+@media print, screen and (max-width: 800px) {
+  #wrapper {
+    flex-direction: column;
+  }
   div.wrapper {
     width: auto;
     margin: 0;
@@ -331,18 +338,6 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 800) {
-  #wrapper {
-    flex-direction: column;
-  }
-  .downloads {
-    width: 99%;
-  }
-  .downloads li,
-  .downloads li + li + li {
-    width: 33%;
-  }
-}
 @media print {
   body {
     padding: 0.4in;
