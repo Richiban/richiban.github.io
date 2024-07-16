@@ -32,6 +32,11 @@ body {
   flex: 3;
 }
 
+#main img {
+  max-width: 100%;
+  height: auto;
+}
+
 @media screen and (min-width: 1200px) {
   #wrapper {
     width: 1200px;
