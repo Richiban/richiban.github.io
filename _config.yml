@@ -1,10 +1,13 @@
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+title: Pinar Gibson
+description: |
+  <p style="font-size: 14px;">I am a junior data analyst with a background in media. I love extracting insights from datasets. My problem-solving skills and keen eye for detail ensure precision throughout the analytics workflow. Known for my collaborative spirit, I actively share my knowledge. I am passionate about leveraging my unique blend of analytical skills and media industry experience to drive data-driven decision-making.</p>
+  
+  <p style="font-size: 12px;"><b><u>SKILLS</u></b></p>
+  <ul style="font-size: 12px;">
+  <li><b><u>Analytics:</u></b> Data Extraction, Cleaning and Wrangling, Modelling, Analysis, Visualisation, Dashboards, Presentation</li>
+  <li><b><u>Tools:</u></b> Microsoft Excel, Power BI, Power Query, Tableau, SQL, Python, Pandas, Matplotlib, Plotly, Seaborn, Scikit-Learn, Beautifulsoup</li>
+  </ul>
+  <p><a href="https://www.linkedin.com/in/pinar-gibson/">View My LinkedIn Profile</a></p>
+
+google_analytics:
+theme: jekyll-theme-minimal

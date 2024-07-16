@@ -1,6 +1,3 @@
----
-title: My First Page
-layout: default
----
+# Pinar's portfolio
 
-This is the content of my page
+This is the backing code for Pinar Gibson's portfolio website
