@@ -1,4 +1,6 @@
 title: Pinar Gibson
 google_analytics:
 highlighter: rouge
-input: GFM
+kramdown:
+    input: GFM 
+    syntax_highlighter: rouge
