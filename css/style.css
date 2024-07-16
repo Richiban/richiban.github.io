@@ -50,7 +50,7 @@ body {
   }
 
   #main {
-    padding-right: calc(100vw - var(--max-width) / 2);
+    padding-right: calc(50vw - var(--max-width) / 2);
   }
 }
 @font-face {
