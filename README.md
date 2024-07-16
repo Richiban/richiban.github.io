@@ -1,3 +1,6 @@
-# richiban.github.io
+---
+title: My First Page
+layout: default
+---
 
-V2
+This is the content of my page
