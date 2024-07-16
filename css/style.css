@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, sans-serif;
 }
 
 #wrapper {
@@ -12,7 +13,7 @@ body {
 /* The sidebar menu */
 #sidebar {
   overflow: auto;
-  flex: 50%;
+  flex: 1;
   padding: 20px;
   background-color: rgb(231, 239, 243);
 }
@@ -25,8 +26,8 @@ body {
 /* Style page content */
 #main {
   overflow: auto;
-  flex: 50%;
   padding: 20px;
+  flex: 4;
 }
 
 @media screen and (min-width: 1200px) {
