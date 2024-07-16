@@ -23,7 +23,7 @@ This analysis was conducted under the agile framework, leveraging data analytics
 
 This experience enhanced my skills in data analysis, agile project management, and effective teamwork in a high-pressure environment.
 
-[![Wind Turbines](WindDashboard.png)](WindDashboard.png "Wind Turbines" data-lightbox="image-4")
+[![Wind Turbines](img/WindDashboard.png)](img/WindDashboard.png "Wind Turbines" data-lightbox="image-4")
 
 **Skills:** Agile Methodologies · Sprint Backlog · Retrospectives · Python · Tableau
 

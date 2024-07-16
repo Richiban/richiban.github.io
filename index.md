@@ -10,7 +10,7 @@ layout: default
 
 **Skills:** Python · Seaborn · Tableau · Data Analytics · SQLite · Web Scraping
 
-![Netflix Analysis](plot.png)
+![Netflix Analysis](img/plot.png)
 
 ---
 
@@ -19,7 +19,7 @@ layout: default
 
 **Skills:** Agile Methodologies · Sprint Backlog · Retrospectives · Python · Tableau
 
-![windturbine](windturbine1.png)
+![windturbine](img/windturbine1.png)
 
 ---
 
@@ -27,7 +27,7 @@ layout: default
 
 **Skills:** Data Visualization · Tableau · Data Cleaning · Data Analysis · Storytelling
 
-![covid](CovidDashboard.png)
+![covid](img/CovidDashboard.png)
 
 ---
 
@@ -35,7 +35,7 @@ layout: default
 
 **Skills:** Data Extraction · Data Wrangling · Python · Jupyter Notebook · Tableau · API Integration
 
-![indicators](indicators1.png)
+![indicators](img/indicators1.png)
 
 ---
 
@@ -43,7 +43,7 @@ layout: default
 
 **Skills:** Data Wrangling · Data Analysis · Python · Pandas · Plotly · Jupyter Notebook · Data Visualization
 
-![coffee shop](coffee.png)
+![coffee shop](img/coffee.png)
 
 ---
 
@@ -51,7 +51,7 @@ layout: default
 
 **Skills:** Microsoft Excel · Data Analytics · Microsoft PowerPoint · SQL
 
-![Gender Pay Gap](gender.png)
+![Gender Pay Gap](img/gender.png)
 
 ---
 
@@ -59,7 +59,7 @@ layout: default
 
 **Skills:** Microsoft Power Query · Power BI · Data Modelling
 
-![Sales Analysis](sales.png)
+![Sales Analysis](img/sales.png)
 
 ---
 
@@ -67,7 +67,7 @@ layout: default
 
 **Skills:** Data Analytics · Microsoft Power Query · Power BI
 
-![Loan](loan.png)
+![Loan](img/loan.png)
 
 ---
 
@@ -75,6 +75,6 @@ layout: default
 
 **Skills:** Excel Formulas · Microsoft Excel · Data Analytics · Pivot Tables
 
-![kickstarter](kickstarter.png)
+![kickstarter](img/kickstarter.png)
 
 ---

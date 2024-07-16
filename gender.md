@@ -9,9 +9,9 @@
 
 Conducted a comprehensive analysis of the UK gender pay gap using a gov.uk dataset. Utilised SQL for data extraction, cleaning, and wrangling. Created Excel visualisations to identify average pay gaps across sectors, top companies and cities with the highest gaps, pay gap distribution by company size, and gender distribution across pay quarters. Presented findings in PowerPoint and recreated visualisations in Tableau.
 
-[![Gender](gender1.png)](gender1.png "Gender 1" data-lightbox="image-12")
+[![Gender](img/gender1.png)](img/gender1.png "Gender 1" data-lightbox="image-12")
 
-[![Gender](gender2.png)](gender2.png "Gender 2" data-lightbox="image-13")
+[![Gender](img/gender2.png)](img/gender2.png "Gender 2" data-lightbox="image-13")
 
 
 **Skills:** Microsoft Excel · Data Analytics · Microsoft PowerPoint · SQL

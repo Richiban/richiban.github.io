@@ -8,9 +8,9 @@
 
 Analysis of sales data from 2012 to 2014 to provide valuable insights into the client's products, sales, and marketing strategies, used Power Query to transform the data and visualised with Power BI.
 
-[![Sales1](sales1.png)](sales1.png "Sales 1" data-lightbox="image-14")
+[![Sales1](img/sales1.png)](img/sales1.png "Sales 1" data-lightbox="image-14")
 
-[![Sales2](sales2.png)](sales2.png "Sales 2" data-lightbox="image-15")
+[![Sales2](img/sales2.png)](img/sales2.png "Sales 2" data-lightbox="image-15")
 
 
 **Skills:** Microsoft Power Query · Power BI · Data Modelling

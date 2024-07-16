@@ -18,6 +18,6 @@ Tasked with analysing the behaviour of various economic indicators during the CO
 - **Data Extraction and Wrangling:** Utilised Python in Jupyter Notebook to extract data from the Alpha Vantage API. Cleaned and transformed the data to ensure it was suitable for analysis.
 - **Analysis and Visualization:** Created visualizations in Tableau to illustrate the behavior of economic indicators.
 
-[![Sentiments](Sentiments.png)](Sentiments.png "Sentiments" data-lightbox="image-7")
+[![Sentiments](img/Sentiments.png)](img/Sentiments.png "Sentiments" data-lightbox="image-7")
 
 **Skills:** Data Extraction · Data Wrangling · Data Analysis · Python · Jupyter Notebook · Tableau · API Integration

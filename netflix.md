@@ -12,11 +12,11 @@ Conducted an in-depth analysis of Netflix's content library and user ratings to 
 
 Utilized Python pandas library for data cleaning, preprocessing, and transforming the data, ensuring the data was structured and free of inconsistencies. Employed exploratory data analysis techniques to uncover insights and trends within the dataset. Created visualizations using Plotly, Seaborn, and interactive dashboards using Tableau, enabling dynamic data exploration and presentation of findings. Scraped Wikipedia using Python to identify Netflix Originals, allowing for a boolean classification of titles in the dataset.
 
-[![NetflixDashboard](NetflixDashboard.png)](NetflixDashboard.png "Netflix Dashboard" data-lightbox="image-1")
+[![NetflixDashboard](img/NetflixDashboard.png)](img/NetflixDashboard.png "Netflix Dashboard" data-lightbox="image-1")
 
-[![Netflix](Netflix.png)](Netflix.png "Netflix" data-lightbox="image-2")
+[![Netflix](img/Netflix.png)](img/Netflix.png "Netflix" data-lightbox="image-2")
 
-[![Netflix](netflix1.png)](netflix1.png "Netflix" data-lightbox="image-3")
+[![Netflix](img/netflix1.png)](img/netflix1.png "Netflix" data-lightbox="image-3")
 
 **Key insights derived from the analysis include:**
 
