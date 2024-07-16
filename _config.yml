@@ -1,3 +1,4 @@
 title: Pinar Gibson
 google_analytics:
-theme: jekyll-theme-minimal
+highlighter: rouge
+input: GFM
