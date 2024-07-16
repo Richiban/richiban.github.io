@@ -44,7 +44,7 @@ body {
   height: auto;
 }
 
-@media screen and (min-width: var(--max-width)) {
+@media screen and (min-width: 1200px) {
   #wrapper {
     margin-left: calc(50% - var(--max-width) / 2);
   }
