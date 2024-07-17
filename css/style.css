@@ -16,7 +16,6 @@ body {
   overflow: hidden;
 }
 
-/* The sidebar menu */
 #sidebar {
   overflow: auto;
   flex: 1;
@@ -25,12 +24,7 @@ body {
   background-color: rgb(231, 239, 243);
 }
 
-/* When you mouse over the navigation links, change their color */
-#sidebar a:hover {
-  color: #f1f1f1;
-}
 
-/* Style page content */
 #main {
   overflow: auto;
   padding: 20px;
