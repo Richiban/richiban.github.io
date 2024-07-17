@@ -295,6 +295,11 @@ footer {
 
   #main {
     padding-right: calc(50vw - var(--max-width) / 2);
+    padding-top: initial;
+  }
+
+  #sidebar {
+    padding-top: initial;
   }
 }
 
