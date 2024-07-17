@@ -274,10 +274,12 @@ footer {
 
   #main {
     padding-top: 20px;
+    padding: 60px;
   }
 
   #sidebar {
     padding-top: 20px;
+    padding: 60px;
   }
 
   #main img {
