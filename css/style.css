@@ -301,11 +301,8 @@ footer {
 
 @media print, screen and (max-width: 800px) {
   #wrapper {
-    flex-direction: column;
-  }
-  div.wrapper {
-    width: auto;
-    margin: 0;
+    display: auto;
+    overflow: auto;
   }
   header,
   section,
