@@ -301,8 +301,8 @@ footer {
 
 @media print, screen and (max-width: 800px) {
   #wrapper {
-    display: auto;
-    overflow: auto;
+    display: initial;
+    overflow: initial;
   }
   header,
   section,
