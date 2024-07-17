@@ -299,7 +299,7 @@ footer {
 }
 
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-device-width: 960px) {
   #wrapper {
     display: initial;
     overflow: initial;
