@@ -267,6 +267,10 @@ footer {
 
 
 @media only screen and (max-device-width: 880px), (max-width: 800px) {
+  body {
+    font-size: 1.5em;
+  }
+  
   #wrapper {
     display: initial;
     overflow: initial;
