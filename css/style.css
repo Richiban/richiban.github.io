@@ -306,10 +306,10 @@ footer {
   }
 
   #main {
-    padding-top: initial;
+    padding-top: 20px;
   }
 
   #sidebar {
-    padding-top: initial;
+    padding-top: 20px;
   }
 }
