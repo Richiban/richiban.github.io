@@ -316,4 +316,8 @@ footer {
   #main img {
     width: 100%;
   }
+
+  #main * {
+    text-align: justify;
+  }
 }
