@@ -10,7 +10,7 @@ layout: default
 
 **Skills:** Python · Seaborn · Tableau · Data Analytics · SQLite · Web Scraping
 
-![Netflix Analysis](img/plot.png)
+[![Netflix Analysis](img/plot.png)](netflix.md "Netflix Analysis")
 
 ---
 
