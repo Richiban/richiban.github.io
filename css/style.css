@@ -295,18 +295,21 @@ footer {
 
   #main {
     padding-right: calc(50vw - var(--max-width) / 2);
+  }
+}
+
+
+@media print, screen and (max-width: 960px) {
+  #wrapper {
+    display: initial;
+    overflow: initial;
+  }
+
+  #main {
     padding-top: initial;
   }
 
   #sidebar {
     padding-top: initial;
-  }
-}
-
-
-@media print, screen and (max-width: 800px) {
-  #wrapper {
-    display: initial;
-    overflow: initial;
   }
 }
