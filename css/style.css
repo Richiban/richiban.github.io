@@ -288,7 +288,7 @@ footer {
 }
 
 
-@media screen and (min-width: 1200px) {
+@media only screen and (min-width: 1200px) {
   #wrapper {
     margin-left: calc(50% - var(--max-width) / 2);
   }
@@ -299,7 +299,7 @@ footer {
 }
 
 
-@media print, screen and (max-width: 960px) {
+@media only screen and (max-width: 960px) {
   #wrapper {
     display: initial;
     overflow: initial;
