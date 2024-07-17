@@ -312,4 +312,8 @@ footer {
   #sidebar {
     padding-top: 20px;
   }
+
+  #main img {
+    width: 100%;
+  }
 }
