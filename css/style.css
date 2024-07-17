@@ -289,6 +289,6 @@ footer {
   }
 
   #main table {
-    font-size: 2em;
+    font-size-adjust: auto;
   }
 }
